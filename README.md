@@ -2,7 +2,7 @@
 - 👀 I’m interested in website/mobile apps
 - 🌱 I’m currently learning mobile apps development
 - 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me on 08080534358
+- 📫 How to reach me on 08080534348
 
 
 <!---
